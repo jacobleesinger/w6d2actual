@@ -674,3 +674,4 @@ $(function(){
 [ss-12-c]: ./screenshots/12-modal-c.png
 [live-12]: http://appacademy.github.io/css-friends/solution/12-modal.html
 # w6d2
+# w6d2
